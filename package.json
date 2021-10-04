@@ -1,5 +1,5 @@
 {
-  "name": "airbnb-nuxt",
+  "name": "mastering-nuxt",
   "dependencies": {
     "@nuxtjs/cloudinary": "1.0.3-beta-3",
     "body-parser": "1.19.0",
